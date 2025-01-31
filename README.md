@@ -1,2 +1,2 @@
 # HUNO-PostgreSQL
-Download and Restore database
+Huno LC/NC database Download and Restore
